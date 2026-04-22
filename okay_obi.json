@@ -3,7 +3,7 @@
   "wake_word": "okay obi",
   "author": "gutto",
   "website": "",
-  "model": "okay_obi.tflite",
+  "model": "https://raw.githubusercontent.com/guttoribeiro/wakeword/main/okay_obi.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
