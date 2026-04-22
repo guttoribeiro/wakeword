@@ -2,7 +2,7 @@
     "type": "micro",
     "wake_word": "okay obi",
     "author": "gutto",
-    "website": "",
+    "website": "https://github.com/guttoribeiro/wakeword",
     "model": "okay_obi.tflite",
     "trained_languages": ["pt"],
     "version": 2,
